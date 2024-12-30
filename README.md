@@ -25,5 +25,6 @@ O projeto é composto por três classes principais:
    ```bash
    javac Principal.java CartaoDeCredito.java Compra.java
 3. Execute o programa:
-  java Principal
+   ```bash
+     java Principal
 4. O programa solicitará que você insira o limite do cartão, as descrições e os valores das compras. O programa continuará até que o saldo do cartão seja insuficiente ou o usuário escolha sair.
